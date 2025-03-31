@@ -2,5 +2,4 @@
 node_modules/
 
 # Tailwind output files
-dist/
 dist/style.css
